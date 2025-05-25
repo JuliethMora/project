@@ -47,7 +47,6 @@ jsonschema==4.23.0
 jupyter-client==8.6.3
 jupyter-core==5.7.2
 jupyterlab==4.4.2
-keras==3.9.2
 kiwisolver==1.4.8
 Markdown==3.8
 matplotlib==3.10.3
